@@ -1,0 +1,15 @@
+/workspaces/2026-2mm-poo/obj/Debug/net8.0/2026-2mm-poo.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/2026-2mm-poo/obj/Debug/net8.0/2026-2mm-poo.AssemblyInfoInputs.cache
+/workspaces/2026-2mm-poo/obj/Debug/net8.0/2026-2mm-poo.AssemblyInfo.cs
+/workspaces/2026-2mm-poo/obj/Debug/net8.0/2026-2mm-poo.csproj.CoreCompileInputs.cache
+/workspaces/2026-2mm-poo/obj/Debug/net8.0/2026-2mm-poo.sourcelink.json
+/workspaces/2026-2mm-poo/bin/Debug/net8.0/2026-2mm-poo
+/workspaces/2026-2mm-poo/bin/Debug/net8.0/2026-2mm-poo.deps.json
+/workspaces/2026-2mm-poo/bin/Debug/net8.0/2026-2mm-poo.runtimeconfig.json
+/workspaces/2026-2mm-poo/bin/Debug/net8.0/2026-2mm-poo.dll
+/workspaces/2026-2mm-poo/bin/Debug/net8.0/2026-2mm-poo.pdb
+/workspaces/2026-2mm-poo/obj/Debug/net8.0/2026-2mm-poo.dll
+/workspaces/2026-2mm-poo/obj/Debug/net8.0/refint/2026-2mm-poo.dll
+/workspaces/2026-2mm-poo/obj/Debug/net8.0/2026-2mm-poo.pdb
+/workspaces/2026-2mm-poo/obj/Debug/net8.0/2026-2mm-poo.genruntimeconfig.cache
+/workspaces/2026-2mm-poo/obj/Debug/net8.0/ref/2026-2mm-poo.dll
